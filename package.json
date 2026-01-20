@@ -1,0 +1,26 @@
+
+{
+  "name": "jasa-arha-management",
+  "version": "1.1.0",
+  "description": "Professional vehicle tax management dashboard for Jasa Arha, featuring Cloud Sync and AI Insights.",
+  "main": "index.html",
+  "homepage": ".",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "pwa",
+    "react",
+    "management",
+    "tax-service",
+    "dashboard",
+    "firebase",
+    "gemini-ai"
+  ],
+  "author": "Jasa Arha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/jasa-arha.git"
+  }
+}
